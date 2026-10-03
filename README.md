@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ratthabiz/flarum-thai.** Not for installation: use [Packagist](https://packagist.org/packages/ratthabiz/flarum-thai) or the [upstream repository](https://github.com/ratthabiz/flarum-thai).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/ratthabiz-flarum-thai/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.4`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/ratthabiz-flarum-thai/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.4`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2021-08-05 | `^1.0.4` | [Browse](https://github.com/flarchive/ratthabiz-flarum-thai/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/ratthabiz-flarum-thai.json](https://github.com/flarchive/archive-index/blob/main/packages/ratthabiz-flarum-thai.json)
 
